@@ -1,1 +1,1 @@
-# my_repo
+Primer fichero en el primer repositorio de Javier Domínguez Conde e Ignacio Martínez Arteta
